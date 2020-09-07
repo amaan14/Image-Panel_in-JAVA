@@ -1,10 +1,10 @@
 # HOW TO SET BACKGROUND IMAGE IN JPANEL OR JFRAME USING JAVA NETBEANS
 
-### Navigator PAGE
-![](navigator.jpg)
+### Netbeans Navigator Sequence
+![](/navigator.jpg)
 
 ### SIGN IN PAGE
-![](sign_in.jpg)
+![](/sign_in.jpg)
 
 ### SIGN UP PAGE
-![](sign_up.jpg)
+![](/sign_up.jpg)
